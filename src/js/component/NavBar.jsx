@@ -9,6 +9,7 @@ const NavBar = () => {
         <a class="navbar-brand" href="#">
           Start Bootstrap
         </a>
+        {/*  Reemplazar todo este bloque de código
         <ul class="nav nav-pills mb-3 justify-content-end" id="pills-tab" role="tablist">
           <li class="nav-item" role="presentation">
             <button
@@ -65,9 +66,9 @@ const NavBar = () => {
             >
               Contact
             </button>
-          </li>
-          
+          </li> 
         </ul>
+        */}
       </div>
     </nav>
   );

@@ -24,4 +24,13 @@ CardLG.propTypes = {
   imgURL: PropTypes.string,
 };
 
+CardLG.defaultProps = {
+  text: 'text about the card',
+  btnLabel: 'Go to action',
+  btnURL: '#',
+  title: 'Card title',
+  imgURL: '...',
+};
+
+
 export default CardLG;
